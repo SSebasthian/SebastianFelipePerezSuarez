@@ -108,3 +108,22 @@ article .img1{
     top: -100px;
     padding: 30px 0px;
 }
+article .img2{
+    width: 250px;
+    height: 100%;
+    position: relative;
+    top: -50px;
+    padding: 70px 120px 0 0 ;
+    float: right;
+}
+article #Curso{
+    width: 60%;
+    font-size: 20px;
+    
+} 
+article #Info-Curso{
+    width: 60%;
+    font-size: 17px;
+    text-align: justify;
+    color: #15117B;
+}
