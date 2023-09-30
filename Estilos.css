@@ -40,7 +40,7 @@ nav ul li{
     list-style: none;
 }
 nav ul li a{
-    list-style: 80px;
+    list-style: 10px;
     color: #fff;
     padding: 5px 50px;
     text-decoration: none;
@@ -126,4 +126,17 @@ article #Info-Curso{
     font-size: 17px;
     text-align: justify;
     color: #15117B;
+}
+footer{
+    position: relative;
+    border: 1px solid #000;
+    width: 90%;
+    height: 100px;
+    float: right;
+    background-color: #262626; 
+}
+footer p{
+    font-size: 18px;
+    color: #fff;
+    text-align: center;
 }
